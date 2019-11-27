@@ -17,3 +17,10 @@ img {
     height: 200px;
     width: auto;
 }
+h5{
+    color: pink;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
