@@ -9,3 +9,7 @@ h1{
   text-transform: uppercase;
   text-align: center;
   }
+img {
+    height: 200px;
+    width: auto;
+}
