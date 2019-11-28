@@ -1,4 +1,30 @@
 .navbar{
     background: rgb(238,174,202);
     background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
   }
+h1{
+    color: pink;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+img {
+    height: 200px;
+    width: auto;
+}
+.card {
+    height: 200px;
+    width: auto;
+}
+h5{
+    color: pink;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
