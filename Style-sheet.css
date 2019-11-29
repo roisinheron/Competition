@@ -185,8 +185,7 @@ a.socialIcon:hover, .socialHoverClass {
   justify-content: center;
 }
 
-
-div.left-column{
-  width: 200px;
-  height: 200px;
+.youtube {
+  display: flex;
+  justify-content: center;
 }
