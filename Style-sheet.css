@@ -187,8 +187,7 @@ a.socialIcon:hover, .socialHoverClass {
 }
 
 .exhibition-video-container {
-  position: relative;
-  display: grid;
+  display: flex;
   justify-content: center;
 }
 
@@ -199,4 +198,9 @@ a.socialIcon:hover, .socialHoverClass {
   margin-left: 50px;
   margin-right: 50px;
   z-index: 3;
+}
+.tate-map {
+display: flex;
+justify-content: center
+
 }
