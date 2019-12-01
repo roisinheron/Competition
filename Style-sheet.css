@@ -59,6 +59,7 @@ h3{
 }
 
 .card{
+  display: flex;
   margin-left: 50px;
   margin-right: 50px;
   background: rgb(186,172,207);
@@ -185,7 +186,17 @@ a.socialIcon:hover, .socialHoverClass {
   justify-content: center;
 }
 
-.youtube {
-  display: flex;
+.exhibition-video-container {
+  position: relative;
+  display: grid;
   justify-content: center;
+}
+
+.booking-container{
+  position: relative;
+  display: grid;
+  justify-content: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  z-index: 3;
 }
