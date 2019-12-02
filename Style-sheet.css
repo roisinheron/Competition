@@ -16,6 +16,7 @@
 h5{
   font-family: 'Anton', sans-serif;
   font-size: 80px;
+  font-size: 5vw;
   text-transform: uppercase;
 }
 
@@ -26,12 +27,14 @@ p{
 h4{
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
+  font-size: 1.3vw;
   white-space: pre-wrap;
 }
 
 h2{
   font-family: 'Anton', sans-serif;
   font-size: 50px;
+  font-size: 4vw;
   text-transform: uppercase;
   text-align: center;
   color: pink;
@@ -41,6 +44,7 @@ h2{
 h3{
   font-family: 'Anton', sans-serif;
   font-size: 50px;
+  font-size: 3vw;
   text-transform: uppercase;
   text-align: left;
   color: pink;
@@ -199,6 +203,7 @@ a.socialIcon:hover, .socialHoverClass {
   margin-right: 50px;
   z-index: 3;
 }
+
 .tate-map {
 display: flex;
 justify-content: center
